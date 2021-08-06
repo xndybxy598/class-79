@@ -1,0 +1,21 @@
+#sortBttn{
+    display: none;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+#submitBttn{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+input{
+    margin: 10px;
+}
+
+body{
+    background: radial-gradient(rgb(201, 180, 255) 0%, rgb(53, 43, 201) 100%);
+    color:floralwhite;
+    font-family: 'Inconsolata', monospace;
+}
+
